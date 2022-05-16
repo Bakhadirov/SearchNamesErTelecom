@@ -1,0 +1,5 @@
+venv
+.idea
+**/migrations/0002_alter_employee_personnel_movement_date.py
+**/migrations/0003_alter_employee_actual_alter_employee_archive_and_more.py_alter_employee_personnel_movement_date.py
+**/token_project.py
